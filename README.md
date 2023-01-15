@@ -1,6 +1,6 @@
 # Quiz Application
 
-A new Flutter project.
+A new Flutter project. it is for test your general information and calculate your score.
 
 ## Photo:
 
